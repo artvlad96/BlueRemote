@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5c55b4a21bb5cdb88b98fc7d642ff83e2623f549.jar" />
+    </item>
+    <item
+        jar="C:\Users\Владислав\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-38ce377f9b66596a6c0e6318dad826b2ea262f3c.jar" />
+    </item>
+    <item
+        jar="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\pre-dexed\debug\classes-eb3027ba22cb982ac2f1fa48d7e8a957da29f479.jar" />
+    </item>
+    <item
+        jar="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="H:\универ\4 семестр\СПОВМ\BluetoothForAndroid\BlueRemote3\app\build\intermediates\pre-dexed\debug\classes-cc085d126899f2272e7a255eeb2cda3c11f6b487.jar" />
+    </item>
+
+</items>
